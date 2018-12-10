@@ -4,9 +4,8 @@ This is a sample app that demonstrates how to run a Python Flask API application
 
 For more information, please see the [Python on App Service quickstart](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python).
 
-# Contributing
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-
 Calculator Usage:
+
+https://pycalc.azurewebsites.net/calc/v1/add?val=22e22&val=33e-44
+
+https://pycalc.azurewebsites.net/calc/v1/multiply?val=22e22&val=33e-44
